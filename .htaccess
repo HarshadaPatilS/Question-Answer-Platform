@@ -1,0 +1,14 @@
+# Enable URL Rewriting
+RewriteEngine On
+RewriteBase /qa-platform/
+
+# Remove .php extension
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Redirect question URLs
+RewriteRule ^question/([0-9]+)$ questions/view_question.php?id=$1 [L]
+
+# Redirect user profile URLs
+RewriteRule ^user/([a-zA-Z0-9_]+)$ user/profile.php?username=$1 [L]
