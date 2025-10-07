@@ -152,3 +152,27 @@ qa-platform/
 - `POST /questions/like_question.php` - Like a question
 - `POST /answers/like_answer.php` - Like an answer
 - `POST /answers/post_answer.php` - Submit answer
+
+---
+
+<img width="1887" height="985" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/6c9e4a52-7f47-4c2a-bc0b-a4b3d8405434" />
+
+<img width="1892" height="992" alt="Screenshot (136)" src="https://github.com/user-attachments/assets/c8b8506b-f41a-4a80-b93a-7e659f342f27" />
+
+<img width="1890" height="986" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/c1eeace3-d064-4d95-8aed-f65f7258b172" />
+
+<img width="1920" height="785" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/4be97cc1-d2e3-4e16-a3a1-2840c0f738e0" />
+
+<img width="1891" height="986" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/7f77f661-9501-452a-a850-595fd26331cc" />
+
+<img width="1888" height="979" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/c79455f9-9597-4cd7-a80e-8cd980625ef6" />
+
+<img width="1887" height="985" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/d492ff75-89bc-4d34-bf2f-06dc982c2b37" />
+
+<img width="1889" height="981" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/38dea7c7-4bb4-4449-9cd4-756899538b6b" />
+
+<img width="1891" height="987" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/e6081bb9-51ff-4689-94d5-ca1b876be82f" />
+
+<img width="1893" height="984" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/3a24057d-3e3f-4833-b35e-854c93cf61ab" />
+
+<img width="1887" height="982" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/055f1488-ff35-4154-9697-bd977eace193" />
