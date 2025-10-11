@@ -74,6 +74,7 @@ private $host = "localhost";
 private $db_name = "qa_platform";
 private $username = "root";
 private $password = "";
+private $port = "4306";
 ```
 
 ### Step 5: Run the Application
